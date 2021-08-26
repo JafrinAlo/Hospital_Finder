@@ -1,3 +1,5 @@
+// Hello Weirdo
+
 <?php
 
 session_start();
