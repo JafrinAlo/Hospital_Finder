@@ -1,0 +1,13 @@
+db name: usersignup
+table name: sign up
+
+
+  bootstrap update:
+The Bootstrap 5 Navbar still uses flexbox, but the concept of right and left, have changed to start and end for new RTL support. Therefore, the class names have changed...
+
+float-right --> float-end
+float-left --> float-start
+ml-* --> ms-*
+pl-* --> ps-*
+mr-* --> me-*
+pr-* --> pe-*

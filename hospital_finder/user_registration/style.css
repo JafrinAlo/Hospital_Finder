@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(beachlogin.jpg);
+    background-size:cover;
+    background-position:center;
+}
+.login-box{
+    max-width: 700px;
+    float:none;
+    margin:150px auto;
+}
+.login-left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+.login-right{
+    background: rgba(255, 255, 255, 0.6);
+    padding:30px;
+}
+.form-control{
+    background-color:transparent !important;
+}
+a{
+    color:#fff !important;
+    margin-top: -10;
+}
+h1{
+    color:rgb(180, 225, 233) !important;
+    margin-top: 20px !important;
+    text-align:left;
+    text-transform: uppercase;
+}
